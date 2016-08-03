@@ -6,9 +6,9 @@ color:
   saturation: 0.16659346967935562
   rhythmicContrast: 0.638478510081768
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#808080'
+    - '#74D039'
+    - '#B4B4B4'
+    - '#CECECE'
 name: Calabasas Center
